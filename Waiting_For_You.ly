@@ -26,6 +26,7 @@
     af4. r16 ef16 c'8 ef16 ef~ef af,8 bf16 ~
     bf4. r16 ef,16 c'8 ef16 ef~ef af,8 af16 ~
     af8 bf16 af8 ef8. af8 bf16 af8 ef8. 
+    df'4 c bf af
   }
 
   \layout {}
